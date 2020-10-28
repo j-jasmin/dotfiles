@@ -1,6 +1,7 @@
 begin
   require 'rubygems'
   require 'pry'
+  require 'irbtools'
 rescue LoadError
 end
 

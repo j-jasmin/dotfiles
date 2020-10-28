@@ -1,19 +1,36 @@
 {
-  "installed_packages":
-  [
-    "A File Icon",
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "Latest Migration",
-    "MagicPython",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop",
-    "BracketHighlighter"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AmbientColorScheme",
+		"ayu",
+		"Babel",
+		"BracketHighlighter",
+		"Docker Based Build Systems",
+		"Dockerfile Syntax Highlighting",
+		"Dockerfile.sublime-syntax",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"Latest Migration",
+		"MagicPython",
+		"Package Control",
+		"ReactJS",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"Theme - Soda",
+		"Travis-CI"
+	],
+	"repositories":
+	[
+		"https://github.com/jaytaylor/Dockerfile.sublime-syntax"
+	]
 }

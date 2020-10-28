@@ -48,4 +48,9 @@
   mergeoptions = --no-edit
 [user]
 	email = jasmin.jenull@gmx.at
-	name = jasmin jenull
+	name = Jasmin Jenull
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
